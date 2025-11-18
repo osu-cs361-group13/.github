@@ -3,7 +3,7 @@ name: User Story Template
 about: Template for a user story.
 title: ''
 labels: ''
-assignees: ''
+assignees: duellal, popcornMJ, aledanmey, bricetj, maya-venegas
 
 ---
 

@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest a new feature for this project
 title: ''
 labels: ''
-assignees: ''
+assignees: duellal, popcornMJ, aledanmey, bricetj, maya-venegas
 
 ---
 
