@@ -1,12 +1,3 @@
----
-name: Pull Requests
-about: Template for a pull request
-title: ''
-labels: ''
-assignees: duellal, popcornMJ, aledanmey, bricetj, maya-venegas
-
----
-
 Short description or need to know information (optional).
 
 # Changes
