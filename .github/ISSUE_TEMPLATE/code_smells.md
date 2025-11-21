@@ -1,3 +1,12 @@
+---
+name: Code Smells
+about: Template for creating a code smell issue.
+title: ''
+labels: ''
+assignees: 
+
+---
+
 ## Code Smell Type
 Pick one type: comment, function, general code
 
