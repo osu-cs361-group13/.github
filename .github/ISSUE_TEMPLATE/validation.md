@@ -1,3 +1,12 @@
+---
+name: Validation
+about: Template for creating a validation issue.
+title: ''
+labels: ''
+assignees: 
+
+---
+
 ## Requirement or Feature Not Met
 State how the code does not meet a requirement or feature you were expecting.
 
